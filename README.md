@@ -10,9 +10,9 @@ $ git clone https://github.com/Mr-XsZ/Dark-Fb<br>
 $ cd Dark-Fb<br>
 $ bash install.sh<br><br>
 <h1>App Check</h1><br>
-<img src="https://raw.githubusercontent.com/Mr-XsZ/Dark-Fb/blob/master/Screenshot_20190628-211412-picsay.png"/>
+<img src="https://github.com/Mr-XsZ/Dark-Fb/blob/master/Screenshot_20190628-211412-picsay.png"/>
 <br><h1>Account Checker</h1><br>
-<img src="https://raw.githubusercontent.com/Mr-XsZ/Dark-Fb/blob/master/Screenshot_20190628-212232.png"/>
+<img src="https://github.com/Mr-XsZ/Dark-Fb/blob/master/Screenshot_20190628-212232.png"/>
 <h1><a href ="https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w">YouTube Tutorial</a></h1>
 <a href ="https://mbasic.facebook.com/2angga315">ask me on facebook</a>
  

@@ -9,7 +9,7 @@ $ pkg install curl<br>
 $ git clone https://github.com/Mr-XsZ/Dark-Fb<br>
 $ cd Dark-Fb<br>
 $ bash install.sh<br><br>
-<h1>App Check</h1><br>
+<h1>Menu Tools</h1><br>
 <img src="https://github.com/Mr-XsZ/Dark-Fb/blob/master/Screenshot_20190628-211412-picsay.png"/>
 <br><h1>Account Checker</h1><br>
 <img src="https://github.com/Mr-XsZ/Dark-Fb/blob/master/Screenshot_20190628-212232.png"/>

